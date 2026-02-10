@@ -121,76 +121,67 @@ layout: doc
     </div>
   </section>
 
-  <section id="contact" class="section section-alt contact">
-    <h2>联系我们</h2>
-    <p>如需预约或进一步咨询，请直接联系：</p>
-    <ul>
-      <li><strong>电话：</strong><a href="tel:+12407846645">(240) 784-6645</a></li>
-      <li><strong>邮箱：</strong><a href="mailto:inspek@yahoo.com">inspek@yahoo.com</a></li>
-      <li><strong>官网：</strong><a href="https://www.inspekhome.com" target="_blank" rel="noreferrer">www.inspekhome.com</a></li>
-      <li><strong>服务区域：</strong>马里兰 · 华盛顿特区 · 弗吉尼亚</li>
-    </ul>
-
-    <h3>紧急联系电话（便民信息）</h3>
-    <div class="grid-2">
-      <article>
-        <h4>马里兰 · Montgomery County</h4>
-        <ul>
-          <li>Washington Gas：703-750-1000</li>
-          <li>PEPCO：202-833-7500</li>
-          <li>Verizon：800-837-4966</li>
-          <li>WSSC：301-206-4001</li>
-          <li>大尺寸垃圾回收：240-777-0311</li>
-          <li>警署（非紧急）：301-279-8000</li>
-          <li>消防（非紧急）：301-279-8000</li>
-          <li>政府住房管理投诉：311</li>
-        </ul>
-
-        <h4>马里兰 · Howard County</h4>
-        <ul>
-          <li>BGE：800-685-0123</li>
-          <li>Potomac Edison：888-544-4877</li>
-          <li>Verizon：800-837-4966</li>
-          <li>Bureau of Utilities（非紧急）：410-313-4900</li>
-          <li>Bureau of Utilities（紧急）：410-313-2929</li>
-          <li>Bureau of Environmental：410-313-6444</li>
-          <li>警署（非紧急）：410-313-2200</li>
-          <li>消防（非紧急）：410-313-6000</li>
-          <li>政府住房管理投诉：410-313-2455</li>
-        </ul>
-      </article>
-
-      <article>
-        <h4>弗吉尼亚 · Fairfax County</h4>
-        <ul>
-          <li>Washington Gas：703-750-1000</li>
-          <li>Columbia Gas：800-543-8911</li>
-          <li>Dominion Energy：866-366-4357</li>
-          <li>Verizon：800-837-4966</li>
-          <li>Fairfax Water：703-324-5015</li>
-          <li>垃圾回收：711 / 703-802-3322</li>
-          <li>警署（非紧急）：703-691-2131</li>
-          <li>消防（非紧急）：703-691-2131</li>
-          <li>政府住房管理投诉：711 / 703-246-5000</li>
-        </ul>
-
-        <h4>弗吉尼亚 · Loudoun County</h4>
-        <ul>
-          <li>Washington Gas：844-927-4427</li>
-          <li>Columbia Gas：800-544-5606</li>
-          <li>Dominion Energy：866-366-4357</li>
-          <li>NOVEC：703-335-0500</li>
-          <li>Verizon：888-438-3467</li>
-          <li>Loudoun Water：571-291-7880（紧急：571-291-7878）</li>
-          <li>垃圾/回收：County 不提供统一收运服务</li>
-          <li>警署（非紧急）：703-777-1021</li>
-          <li>消防（非紧急）：703-777-0333</li>
-          <li>政府住房管理投诉：711 / 888-551-3247</li>
-        </ul>
-      </article>
-    </div>
-  </section>
 </div>
+
+## 联系我们
+
+如需预约或进一步咨询，请直接联系：
+
+- **电话：** [(240) 784-6645](tel:+12407846645)
+- **邮箱：** [inspek@yahoo.com](mailto:inspek@yahoo.com)
+- **官网：** [www.inspekhome.com](https://www.inspekhome.com)
+- **服务区域：** 马里兰 · 华盛顿特区 · 弗吉尼亚
+
+### 紧急联系电话（便民信息）
+
+#### 马里兰 · Montgomery County
+
+- Washington Gas：703-750-1000
+- PEPCO：202-833-7500
+- Verizon：800-837-4966
+- WSSC：301-206-4001
+- 大尺寸垃圾回收：240-777-0311
+- 警署（非紧急）：301-279-8000
+- 消防（非紧急）：301-279-8000
+- 政府住房管理投诉：311
+
+#### 马里兰 · Howard County
+
+- BGE：800-685-0123
+- Potomac Edison：888-544-4877
+- Verizon：800-837-4966
+- Bureau of Utilities（非紧急）：410-313-4900
+- Bureau of Utilities（紧急）：410-313-2929
+- Bureau of Environmental：410-313-6444
+- 警署（非紧急）：410-313-2200
+- 消防（非紧急）：410-313-6000
+- 政府住房管理投诉：410-313-2455
+
+#### 弗吉尼亚 · Fairfax County
+
+- Washington Gas：703-750-1000
+- Columbia Gas：800-543-8911
+- Dominion Energy：866-366-4357
+- Verizon：800-837-4966
+- Fairfax Water：703-324-5015
+- 垃圾回收：711 / 703-802-3322
+- 警署（非紧急）：703-691-2131
+- 消防（非紧急）：703-691-2131
+- 政府住房管理投诉：711 / 703-246-5000
+
+#### 弗吉尼亚 · Loudoun County
+
+- Washington Gas：844-927-4427
+- Columbia Gas：800-544-5606
+- Dominion Energy：866-366-4357
+- NOVEC：703-335-0500
+- Verizon：888-438-3467
+- Loudoun Water：571-291-7880（紧急：571-291-7878）
+- 垃圾/回收：County 不提供统一收运服务
+- 警署（非紧急）：703-777-1021
+- 消防（非紧急）：703-777-0333
+- 政府住房管理投诉：711 / 888-551-3247
+
 
 <style>
 .inspek-homepage {
